@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: WaToon
+  pageTitle: RelayToon
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: baghakdorung.github.io/WaToon
+  baseUrl: baghakdorung.github.io/RelayToon
   ignorePatterns:
     - private
     - templates
