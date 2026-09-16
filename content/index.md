@@ -27,8 +27,6 @@
   </tr>
 </table>
 
-<hr />
-
 <h1>와섭 외전</h1>
 
 <table>
@@ -52,6 +50,36 @@
   <tr>
     <td><a href="Toons/WaNother/Omok/1화">오목</a></td>
     <td><a href="Toons/WaNother/Sam the deserter!/1화">군대에서 탈영한 삼!</a></td>
+  </tr>
+</table>
+
+<hr />
+
+<h1>구 잚콧</h1>
+
+<table>
+  <tr>
+    <td><img src="구잚1.png" width="200" /></td>
+    <td><img src="구잚2.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td><a href="Toons/OldJarmcot/Season1/1화">시즌1</a></td>
+    <td><a href="Toons/OldJarmcot/Season2/1화">시즌2</a></td>
+  </tr>
+</table>
+
+<h1>신 잚콧</h1>
+
+<table>
+  <tr>
+    <td><img src="신잚1.png" width="200" /></td>
+    <td><img src="신잚2.jpg" width="200" /></td>
+    <td><img src="신잚3.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td><a href="Toons/NewJarmcot/Season1/1화">시즌1</a></td>
+    <td><a href="Toons/NewJarmcot/Season2/1화">시즌2</a></td>
+    <td><a href="Toons/NewJarmcot/Season3/1화">시즌3</a></td>
   </tr>
 </table>
 
@@ -91,22 +119,5 @@
   </tr>
   <tr>
     <td><a href="Toons/Heoserver/Season8/1화">시즌8</a></td>
-  </tr>
-</table>
-
-<hr />
-
-<h1>잚콧</h1>
-
-<table>
-  <tr>
-    <td><img src="잚콧1.png" width="200" /></td>
-    <td><img src="잚콧2.jpg" width="200" /></td>
-    <td><img src="잚콧3.png" width="200" /></td>
-  </tr>
-  <tr>
-    <td><a href="Toons/Jarmcot/Season1/1화">시즌1</a></td>
-    <td><a href="Toons/Jarmcot/Season2/1화">시즌2</a></td>
-    <td><a href="Toons/Jarmcot/Season3/1화">시즌3</a></td>
   </tr>
 </table>
