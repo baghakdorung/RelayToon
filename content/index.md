@@ -27,6 +27,8 @@
   </tr>
 </table>
 
+<br />
+
 <h1>와섭 외전</h1>
 
 <table>
@@ -67,6 +69,8 @@
     <td><a href="Toons/OldJarmcot/Season2/1화">시즌2</a></td>
   </tr>
 </table>
+
+<br />
 
 <h1>신 잚콧</h1>
 
