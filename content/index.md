@@ -48,10 +48,12 @@
   <tr>
     <td><img src="오목.png" width="200" /></td>
     <td><img src="군대에서 탈영한 삼!.png" width="200" /></td>
+    <td><img src="ChainExplosion.png" width="200" /></td>
   </tr>
   <tr>
     <td><a href="Toons/WaNother/Omok/1화">오목</a></td>
     <td><a href="Toons/WaNother/Sam the deserter!/1화">군대에서 탈영한 삼!</a></td>
+    <td><a href="Toons/WaNother/ChainExplosion/1화">연쇄폭발툰</a></td>
   </tr>
 </table>
 
